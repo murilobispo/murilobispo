@@ -8,26 +8,16 @@
  
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Murilo-Js"        height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Murilo-React"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Murilo-Html"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Murilo-Css"       height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Murilo-Firebase"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Murilo-Node"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Murilo-Python"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  <!--
-  <img align="center" alt="Murilo-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  <img align="center" alt="Muilo-Kotlin"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="" height="30" width="40" src="">
-  -->
+
+  [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,firebase,styledcomponents)](https://skillicons.dev)
+  
 </div>
 
 
-##
+<hr>
   
   
- <div align="center"><br>
+ <div align="center">
   <a href="mailto:murilopronect@gmail.com" target=”_blank”>               <img alt="Murilo-Gmail"     src="https://img.shields.io/badge/Gmail-FF1807?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/murilo-bispo/" target=”_blank”>    <img alt="Murilo-Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/murilobispo_" target=”_blank”>       <img alt="Murilo-Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>

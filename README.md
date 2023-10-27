@@ -1,14 +1,13 @@
 <h2>Olá, eu sou o Murilo Bispo 👋</h2>
 
 <div align="center">
-  <a href="https://github.com/murilobispo">
 
   ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobispo&show_icons=true&theme=codeSTACKr)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobispo&layout=compact&height=700px&theme=codeSTACKr)
 </div>
  
   
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
 
   [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,firebase,styledcomponents,tailwind,figma)](https://skillicons.dev)
 </div>

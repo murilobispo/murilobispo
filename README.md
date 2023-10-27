@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobispo&show_icons=true&theme=codeSTACKr)
+  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobispo&rank_icon=github&show_icons=true&theme=codeSTACKr)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobispo&layout=compact&height=700px&theme=codeSTACKr)
 </div>
  

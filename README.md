@@ -9,7 +9,7 @@
   
 <div align="center"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,nodejs,firebase,styledcomponents,tailwind,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,python,nodejs,docker,python,tailwind,firebase,styledcomponents)](https://skillicons.dev)
 </div>
 
 <hr>

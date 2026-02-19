@@ -1,22 +1,30 @@
-<h2>Olá, eu sou o Murilo Bispo 👋</h2>
+# Hi, I'm Murilo Bispo 👋  
 
-<div align="center">
+**Software Developer | Telecommunications Engineering Student**
 
-  ![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobispo&rank_icon=github&show_icons=true&theme=codeSTACKr)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobispo&layout=compact&height=700px&theme=codeSTACKr)
+I build software with structure, clarity, and purpose.
+
+I am currently a **Scholarship Developer at LIT (Laboratório de Inovação e Tecnologia)**, contributing to applied software projects and real-world solutions.
+
+I have a strong foundation in programming, with advanced front-end knowledge and a solid understanding of APIs, software logic, and system environments.
+
+Most of my learning happens through building — and my repositories reflect that: structured projects, clear documentation, and technical depth.
+
+## 🎓 Education
+
+- **Bachelor’s Degree in Telecommunications Engineering** – IFCE *(In Progress)*  
+- **Technical Degree in Informatics** – IFCE  
+
+## 🛠️ Tech & Tools
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,js,python,linux,docker,cpp,tailwind,nodejs,firebase" />
+  </a>
 </div>
- 
-  
-<div align="center"><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,python,linux,nodejs,docker,python,tailwind,firebase)](https://skillicons.dev)
-</div>
+## 📱 Social
 
-<hr>
- <div align="center">
-  <a href="mailto:murilopronect@gmail.com" target=”_blank”>               <img alt="Murilo-Gmail"     src="https://img.shields.io/badge/Gmail-FF1807?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/murilo-bispo/" target=”_blank”>    <img alt="Murilo-Linkedin"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <!--
-  <a href=""><img src=""></a>
-  -->
-</div>
+- [LinkedIn](https://linkedin.com/in/murilo-bispo/)  
+- [Dev.to](https://dev.to/murilobispo)  
+- [Email](mailto:murilooliveirabispo90gmail.com)  

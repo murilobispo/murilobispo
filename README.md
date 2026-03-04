@@ -19,7 +19,7 @@ Most of my learning happens through building — and my repositories reflect tha
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,js,python,linux,docker,cpp,tailwind,nodejs,firebase" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vue,js,python,linux,docker,cpp,tailwind,nodejs,firebase" />
   </a>
 </div>
 
